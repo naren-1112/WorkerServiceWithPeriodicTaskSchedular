@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTaskSchedular", "PeriodicTaskSchedular\PeriodicTaskSchedular.csproj", "{1329773B-45DD-4BF9-9B5E-313A92271FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1329773B-45DD-4BF9-9B5E-313A92271FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1329773B-45DD-4BF9-9B5E-313A92271FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1329773B-45DD-4BF9-9B5E-313A92271FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1329773B-45DD-4BF9-9B5E-313A92271FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4815EAD4-40B2-4E2B-9185-AB4A3B0F8E07}
+	EndGlobalSection
+EndGlobal
